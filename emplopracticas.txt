@@ -1,3 +1,5 @@
+Edgar 28-08-18
+Hacer prender un led con arduino 
 void setup(){
     pinMode(13, OUTPUT);f
     }
@@ -6,4 +8,5 @@ void setup(){
         digitalwrite(13, HIGH);
         delay(100);
         digitalwrite(13,low);
-        
+        delay (100);
+        }
