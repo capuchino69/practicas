@@ -1,0 +1,7 @@
+import os
+
+print "hola Mundo en phyton"
+
+a = 2
+
+print a
